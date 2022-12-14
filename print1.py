@@ -1,0 +1,2 @@
+a = "Twinkel,twinkel, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tlike a diamond in the sky. \nTwinkel, twinkel,little star, \n\tHow I wonderwhat you are!
+print(a)
